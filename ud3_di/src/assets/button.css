@@ -1,0 +1,7 @@
+/*Los .css en la carpeta assets*/
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}
