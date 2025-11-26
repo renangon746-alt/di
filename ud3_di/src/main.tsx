@@ -11,10 +11,11 @@ import ButtonUseState from './components/ButtonUseState.tsx'
 import InputUseState from './components/InputUseState'
 import Carousel from './components/Carousel'
 import FormUseState from './components/FormUseState'
+import SelectorSinBucle from './components/SelectorSinBucle'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     
-    <FormUseState />
+    <ButtonUseState />
   </StrictMode>,
 )
